@@ -1,5 +1,5 @@
-# WeDeploy Auth on iOS Tutorial
+# WeDeploy Auth on Android Tutorial
 
 This template will help you through the process of deploying a WeDeploy Auth container.
 
-> [Visit the tutorials to learn how to start authenticating users.](http://wedeploy.com/tutorials/auth-ios/)
+> [Visit the tutorials to learn how to start authenticating users.](http://wedeploy.com/tutorials/auth-android/)
